@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Zhiqian He
 
-![hezhiqian.jpg]
+![image](hezhiqian.png)
 
 [Link to another page](./another-page.html).
 
